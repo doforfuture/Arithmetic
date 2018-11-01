@@ -4,7 +4,10 @@
 ## 排序算法
 [十大排序算法](https://www.cnblogs.com/onepixel/p/7674659.html)
 
+
+# 常见问题
 [冒泡排序最佳情况的时间复杂度，为什么是O(n)](https://blog.csdn.net/spaceyqy/article/details/39392593)
+[选择排序为什么不稳定](https://www.zhihu.com/question/20926405)
 
 ---
 # 参考文献
